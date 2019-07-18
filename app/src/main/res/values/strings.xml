@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+    <string name="divide_btn">÷</string>
+    <string name="multiply_btn">×</string>
+    <string name="add_btn">+</string>
+    <string name="subtract_btn">-</string>
+    <string name="dot_btn">.</string>
+    <string name="equals_btn">=</string>
+    <string name="delete_btn">DEL</string>
+    <string name="bracket_open_btn">(</string>
+    <string name="bracket_close_btn">)</string>
+    <string column="Back" name="x_square">x<sup>2</sup></string>
+    <string name="percentage_btn">%</string>
+    <string name="pie_btn">\u03C0</string>
+    <string name="prefs_theme_key">theme</string>
+    <string name="dark_mode_toggle">Dark Mode Toggle</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="solidBlack">#000000</color>
+    <color name="color_202020">#202020</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="offWhite">#ecf0f1</color>
+
+
+    <color name="fadedBlack">#575A58</color>
+    <color name="silver">#7B8382</color>
+    <color name="cyan">#21DFCA</color>
+    <color name="lightGrey">#949494</color>
+    <color name="lightBlue">#2980b9</color>
+    <color name="color_34495e">#34495e</color>
+    <color name="color_2c3e50">#2c3e50</color>
+
+
+
+    <color name="fadedRed">#F44336</color>
+    <color name="red">#D32F2F</color>
+
+
+
+    <color name="bloodRed">#811C1C</color>
+    <color name="green">#27ae60</color>
+
+
+</resources>
